@@ -1,7 +1,8 @@
 # dokcer-laravel-handson
 
-## 構築環境
-- Docker 
+Dockerを使用してLaravel環境を構築します。
+
+## 環境
 - PHP8
 - Laravel8
 - Mysql8
